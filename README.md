@@ -11,13 +11,13 @@ The tool works through commands:
 
 ### 🚀 Progress
 
-[X] Basic Logic
-[X] Basic Logic
-[X] Command Systems
-[ ] Develop a method of task permanence
-[ ] Improve the interface
-[ ] Fix certain code errors
-[ ] Refine and improve readability
+- [X] Basic Logic
+- [X] Basic Logic
+- [X] Command Systems
+- [ ] Develop a method of task permanence
+- [ ] Improve the interface
+- [ ] Fix certain code errors
+- [ ] Refine and improve readability
 
 ### 📁 Structure
 ```
