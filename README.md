@@ -1,5 +1,7 @@
 # ✔️ CLI Todo list
+
 ![image](./img.png) 
+
 A CLI-based task management tool. Built using RUST as a research project.
 
 ### 📌 How to use ? 
